@@ -1,4 +1,4 @@
-Sure! Here's a professional `README.md` tailored for your **Library App** project based on your setup (Node.js, Express, MySQL, Dockerized API):
+
 
 ---
 
@@ -24,7 +24,7 @@ A RESTful API built with **Node.js**, **Express**, and **MySQL (v8)** for managi
 
 - **Backend**: Node.js, Express
 - **Database**: MySQL 8
-- **ORM**: (Custom SQL or Sequelize/Knex – adjust if needed)
+- **ORM**: (Custom SQL )
 - **Authentication**: JWT / API Key (for admin)
 - **Environment Handling**: dotenv
 - **Containerization**: Docker
